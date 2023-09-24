@@ -1,5 +1,5 @@
 # TC_ex
-##ThisisCodingTest_algorithmEx
+### ThisisCodingTest_algorithmEx <br>
 이것이 취업을 위한 코딩테스트다 - 나동빈 </br>
 교내 스터디 그룹 진도표에 맞추어 학습합니다.
 
